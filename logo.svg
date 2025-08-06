@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title">
+  <title id="title">ArmanElegance Logo</title>
+  <circle cx="100" cy="100" r="95" fill="#00221A" stroke="#d4af37" stroke-width="6" />
+  <text x="100" y="115" text-anchor="middle" font-family="Playfair Display, serif" font-size="90" fill="white">AE</text>
+</svg>
